@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/508db6cb-e859-4de0-ac8c-2a96944d77f9)
-
-<div style="background-image: url('https://github.com/user-attachments/assets/508db6cb-e859-4de0-ac8c-2a96944d77f9')">
+<div style="background-image: url(![image](https://github.com/user-attachments/assets/508db6cb-e859-4de0-ac8c-2a96944d77f9))">
   
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 
