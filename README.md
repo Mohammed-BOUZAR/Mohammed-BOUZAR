@@ -25,5 +25,7 @@ As a young Moroccan software engineer 🇲🇦 specializing in full-stack develo
 ## Some Languages and Tools
 
 <div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,materialui,vue,vuetify,nuxtjs,react,nextjs,astro,nodejs,spring,laravel,java,php,mysql,mongodb,flutter,androidstudio,firebase,git,githubactions,linux,figma,docker,&perline=7)](https://skillicons.dev)
+
 </div>
