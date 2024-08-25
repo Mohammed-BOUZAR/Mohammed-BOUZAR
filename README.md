@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/508db6cb-e859-4de0-ac8c-2a96944d77f9)
+
+<div style="background-image: url('https://github.com/user-attachments/assets/508db6cb-e859-4de0-ac8c-2a96944d77f9')">
+  
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 
 <p align="center">
@@ -27,5 +31,7 @@ As a young Moroccan software engineer 🇲🇦 specializing in full-stack develo
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,materialui,vue,vuetify,nuxtjs,react,nextjs,astro,nodejs,spring,laravel,java,php,mysql,mongodb,flutter,androidstudio,firebase,git,githubactions,linux,figma,docker,&perline=7)](https://skillicons.dev)
+
+</div>
 
 </div>
