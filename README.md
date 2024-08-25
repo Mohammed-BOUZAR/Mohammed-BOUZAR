@@ -9,11 +9,9 @@ As a young Moroccan software engineer 🇲🇦 specializing in full-stack develo
 ## 📪 Find me at:
 
 <div align="center">
-
 [![Telegram](https://img.shields.io/badge/Telegrame-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MohammedBouzar)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedbouzar)
 [![email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed1.bouzar@gmail.com)
-
 </div>
 
 ## ⚡️ A Few Quick Facts
@@ -23,5 +21,6 @@ As a young Moroccan software engineer 🇲🇦 specializing in full-stack develo
 * 🔒 I hold a DUT (Diplôme Universitaire de Technologie) in Computer Science from FEZ (Fès, Morocco), specializing in Software Engineering. 
 
 ## Some Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,materialui,vue,vuetify,nuxtjs,react,nextjs,astro,nodejs,spring,laravel,java,php,mysql,mongodb,flutter,androidstudio,firebase,git,githubactions,linux,figma,&perline=7)](https://skillicons.dev)
+<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,materialui,vue,vuetify,nuxtjs,react,nextjs,astro,nodejs,spring,laravel,java,php,mysql,mongodb,flutter,androidstudio,firebase,git,githubactions,linux,figma,docker,&perline=7)](https://skillicons.dev)
+</div>
