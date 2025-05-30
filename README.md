@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" alt="Bouzar">
 </p>
 
-As a young Moroccan software engineer 🇲🇦 specializing in full-stack development 👨‍💻, I'm passionate about creating innovative solutions. My expertise spans web development, mobile app creation, and AI integration 🤖. When I'm not coding, you can find me designing visually appealing interfaces 🎨 or conducting research 🔬 in emerging technologies like blockchain and quantum computing.
+As a software engineer 🇲🇦 specializing in full-stack development 👨‍💻, I'm passionate about creating innovative solutions. My expertise spans web development, mobile app creation, and AI integration 🤖. When I'm not coding, you can find me designing visually appealing interfaces 🎨 or conducting research 🔬 in emerging technologies like blockchain and quantum computing.
 
 ## 📪 Find me at:
 
